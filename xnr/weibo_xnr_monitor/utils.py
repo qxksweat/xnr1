@@ -30,6 +30,7 @@ def get_user_nickname(uid):
         user_name=''
     return user_name
 
+
 #lookup weibo_xnr concerned users
 def lookup_weiboxnr_concernedusers(weiboxnr_id):
     try:
